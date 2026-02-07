@@ -50,6 +50,6 @@ A Convolutional Neural Network (CNN) trained to recognize handwritten digits (0-
 
 Note: PyAudio is required specifically for microphone input.
 
-Author
+**Author**
 
-[Your Name]
+Susanta Banik
